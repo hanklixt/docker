@@ -67,7 +67,7 @@ docker login
 docker tag hello-lxt:0.0.1 hankbaba/hello-lxt:0.0.1
 ```
 
--推送镜像
+- 推送镜像
 
 ```
 docker push hankbaba/hello-lxt:0.0.1
